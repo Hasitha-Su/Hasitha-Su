@@ -1,6 +1,6 @@
 ### Hi there, I'm Hasitha 👋
-### 🔭  I’m currently focusing on my research and academics
-### 💬 Ask me about my research. I'm sure you will like it 
+🔭  I’m currently focusing on my research and academics
+💬 Ask me about my research. I'm sure you will like it 
 <!--
 **hasithakms/hasithakms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
