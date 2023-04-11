@@ -3,7 +3,7 @@
 🔭  I’m currently focusing on Salesforce.
 
 <!--[![Hasitha's github stats](https://github-readme-stats.vercel.app/api?username=Hasitha-Sue)](https://github.com/anuraghazra/github-readme-stats)<br>-->
-![](https://komarev.com/ghpvc/?username=Hasitha-Su)
+![](https://komarev.com/ghpvc/?username=Hasitha-Su) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Su&layout=compact)
 
 
