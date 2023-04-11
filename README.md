@@ -2,7 +2,10 @@
 
 🔭  I’m currently focusing on Salesforce.
 
+<!--[![Hasitha's github stats](https://github-readme-stats.vercel.app/api?username=Hasitha-Sue)](https://github.com/anuraghazra/github-readme-stats)<br>-->
 ![](https://komarev.com/ghpvc/?username=Hasitha-Su)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Su&layout=compact)
+
 
 <!--
 **hasithakms/hasithakms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
