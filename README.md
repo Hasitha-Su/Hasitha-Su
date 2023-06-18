@@ -1,6 +1,6 @@
 ### Hi there, I'm Hasitha 👋
 
-🔭  I’m currently focusing on Salesforce.
+🔭  I’m currently focusing on Kotlin & Salesforce.
 
 <!--[![Hasitha's github stats](https://github-readme-stats.vercel.app/api?username=Hasitha-Sue)](https://github.com/anuraghazra/github-readme-stats)<br>-->
 ![](https://komarev.com/ghpvc/?username=Hasitha-Su) <br>
